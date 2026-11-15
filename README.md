@@ -44,8 +44,6 @@ Usage:
 efspotato.exe
 Creates a backdoor local admin account.
 
-Disclaimer
+## Disclaimer
 
 These tools are for authorized security testing only. Do not use against systems without explicit written permission.
-```
-
